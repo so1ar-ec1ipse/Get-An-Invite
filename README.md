@@ -29,7 +29,7 @@
 | `[Github Name](Link_to_Profile)`    | `HTML`        |
 | [vedantmgoyal2009](https://github.com/vedantmgoyal2009) | Java, PowerShell, NodeJS |
 | [Molese](https://github.com/m0lese) | Rust          |
-| [Rohit Tewari](https://github.com/rtewari056) | JavaScript |
+| [Rohit Tewari](https://github.com/rtewari056) | JavaScript,Typescript |
 | [Tran Nguyen Thuong Truong](https://github.com/thuongtruong1009) | Java, HTML, CSS, JS |
 | [Divya](https://github.com/d-coder111) | Python,Java |
 | [phuocantd](https://github.com/phuocantd) | Javascript |
